@@ -1,0 +1,14 @@
+/mnt/d/Pocs/NgBtcPoc/bin/Debug/netcoreapp2.2/NgBtcPoc.deps.json
+/mnt/d/Pocs/NgBtcPoc/bin/Debug/netcoreapp2.2/NgBtcPoc.runtimeconfig.json
+/mnt/d/Pocs/NgBtcPoc/bin/Debug/netcoreapp2.2/NgBtcPoc.runtimeconfig.dev.json
+/mnt/d/Pocs/NgBtcPoc/bin/Debug/netcoreapp2.2/NgBtcPoc.dll
+/mnt/d/Pocs/NgBtcPoc/bin/Debug/netcoreapp2.2/NgBtcPoc.pdb
+/mnt/d/Pocs/NgBtcPoc/obj/Debug/netcoreapp2.2/NgBtcPoc.csprojAssemblyReference.cache
+/mnt/d/Pocs/NgBtcPoc/obj/Debug/netcoreapp2.2/NgBtcPoc.csproj.CoreCompileInputs.cache
+/mnt/d/Pocs/NgBtcPoc/obj/Debug/netcoreapp2.2/NgBtcPoc.RazorAssemblyInfo.cache
+/mnt/d/Pocs/NgBtcPoc/obj/Debug/netcoreapp2.2/NgBtcPoc.RazorAssemblyInfo.cs
+/mnt/d/Pocs/NgBtcPoc/obj/Debug/netcoreapp2.2/NgBtcPoc.AssemblyInfoInputs.cache
+/mnt/d/Pocs/NgBtcPoc/obj/Debug/netcoreapp2.2/NgBtcPoc.AssemblyInfo.cs
+/mnt/d/Pocs/NgBtcPoc/obj/Debug/netcoreapp2.2/NgBtcPoc.RazorTargetAssemblyInfo.cache
+/mnt/d/Pocs/NgBtcPoc/obj/Debug/netcoreapp2.2/NgBtcPoc.dll
+/mnt/d/Pocs/NgBtcPoc/obj/Debug/netcoreapp2.2/NgBtcPoc.pdb
